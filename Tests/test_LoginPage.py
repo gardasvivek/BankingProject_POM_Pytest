@@ -11,7 +11,7 @@ class Test_LoginPage(BaseTest):
         self.loginpage.Goto_Url_Link(TestData.BaseUrl)
         flag=self.loginpage.verify_UserId_locator()
         assert flag
-#testgit
+#testgit addgit status
     def test_veify_password_locator(self):
         self.loginpage=LoginPage(self.driver)
         self.loginpage.Goto_Url_Link(TestData.BaseUrl)
