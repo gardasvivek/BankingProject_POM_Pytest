@@ -1,0 +1,330 @@
+1649676856288	geckodriver	INFO	Listening on 127.0.0.1:59615
+1649676859742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59616" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileKocoFd"
+1649676862337	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileKocoFd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59616/devtools/browser/3fc18056-8543-4554-a17b-f0b87f81222a
+1649676886076	Marionette	INFO	Listening on port 59658
+Read port: 59658
+1649676886600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649676895976	Marionette	INFO	Stopped listening on port 59658
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649676953095	geckodriver	INFO	Listening on 127.0.0.1:59730
+1649676956103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileZ9IjAX"
+1649676957123	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileZ9IjAX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59731/devtools/browser/b04bdfdc-db31-48e9-8263-7a0b454739b4
+1649676962153	Marionette	INFO	Listening on port 59759
+Read port: 59759
+1649676962202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649676967573	Marionette	INFO	Stopped listening on port 59759
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1649677515142	geckodriver	INFO	Listening on 127.0.0.1:59954
+1649677518160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59955" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofilevUDhg3"
+1649677519889	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofilevUDhg3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59955/devtools/browser/22a7a276-3fc4-4c45-875c-6c9a81b9c526
+1649677524458	Marionette	INFO	Listening on port 59977
+Read port: 59977
+1649677524485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649677530707	Marionette	INFO	Stopped listening on port 59977
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 9592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649677584817	geckodriver	INFO	Listening on 127.0.0.1:60050
+1649677587850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60051" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileXsp5pR"
+1649677588537	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileXsp5pR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60051/devtools/browser/76e403ac-bde9-4268-a418-54a91bb4e9a4
+1649677592722	Marionette	INFO	Listening on port 60072
+Read port: 60072
+1649677592822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649677598890	Marionette	INFO	Stopped listening on port 60072
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1649677630653	geckodriver	INFO	Listening on 127.0.0.1:60147
+1649677633681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60148" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofile2dKiQx"
+1649677634481	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofile2dKiQx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60148/devtools/browser/e123e313-d2b9-4266-8ed8-b2add997b0a1
+1649677638880	Marionette	INFO	Listening on port 60171
+Read port: 60171
+1649677639139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649677645481	Marionette	INFO	Stopped listening on port 60171
+[Parent 12708, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1649677682027	geckodriver	INFO	Listening on 127.0.0.1:60249
+1649677685204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60250" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileAkOnGE"
+1649677685821	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileAkOnGE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60250/devtools/browser/6dd77d6e-b376-4090-bf31-05476061a609
+1649677689977	Marionette	INFO	Listening on port 60276
+Read port: 60276
+1649677690056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649677695433	Marionette	INFO	Stopped listening on port 60276
+[Parent 12356, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649677727298	geckodriver	INFO	Listening on 127.0.0.1:60348
+1649677730316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60349" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileDO4QAD"
+1649677730754	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileDO4QAD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60349/devtools/browser/6fc70366-c6c7-4c15-8e21-4136c2e29a3d
+1649677734910	Marionette	INFO	Listening on port 60369
+Read port: 60369
+1649677735014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649677741525	Marionette	INFO	Stopped listening on port 60369
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649678034470	geckodriver	INFO	Listening on 127.0.0.1:60511
+1649678037527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60512" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofile8Ut2EU"
+1649678038070	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofile8Ut2EU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60512/devtools/browser/2155580b-df40-48c9-9d45-f900ae5b8bcc
+1649678042579	Marionette	INFO	Listening on port 60533
+Read port: 60533
+1649678042821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649678048577	Marionette	INFO	Stopped listening on port 60533
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649678077647	geckodriver	INFO	Listening on 127.0.0.1:60606
+1649678080685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60607" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofile2D55IU"
+1649678081214	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofile2D55IU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60607/devtools/browser/d718fd10-f7c9-4bb1-ab5b-21f7c45768a0
+1649678085799	Marionette	INFO	Listening on port 60635
+Read port: 60635
+1649678086143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649678093718	Marionette	INFO	Stopped listening on port 60635
+[Parent 11152, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1649678203420	geckodriver	INFO	Listening on 127.0.0.1:60726
+1649678206457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60727" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofilevjH162"
+1649678206986	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofilevjH162\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60727/devtools/browser/d4fb918d-471e-4cef-b2c9-0c1ea25f699e
+1649678211456	Marionette	INFO	Listening on port 60754
+Read port: 60754
+1649678211523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649678218214	Marionette	INFO	Stopped listening on port 60754
+[Parent 2360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1649678280101	geckodriver	INFO	Listening on 127.0.0.1:60835
+1649678283157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60836" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileDpPrmp"
+1649678283806	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileDpPrmp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60836/devtools/browser/80260d34-b7ea-4a79-bb4e-893ff071130a
+1649678288392	Marionette	INFO	Listening on port 60858
+Read port: 60858
+1649678288574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649678294369	Marionette	INFO	Stopped listening on port 60858
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649678343981	geckodriver	INFO	Listening on 127.0.0.1:60937
+1649678347016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60938" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileHOIN1i"
+1649678347595	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileHOIN1i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60938/devtools/browser/515171f5-ba2f-497a-8059-42860c58bdb5
+1649678352002	Marionette	INFO	Listening on port 60957
+Read port: 60957
+1649678352066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649678358250	Marionette	INFO	Stopped listening on port 60957
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1649678386576	geckodriver	INFO	Listening on 127.0.0.1:61036
+1649678389595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileGWwibZ"
+1649678390181	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileGWwibZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61037/devtools/browser/86956662-4ada-4d69-a226-7b84388425dc
+1649678394773	Marionette	INFO	Listening on port 61064
+Read port: 61064
+1649678394957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 1713 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649678403779	Marionette	INFO	Stopped listening on port 61064
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  Message: Error: Data is not ready.
+  Stack:
+    get data@resource://gre/modules/JSONFile.jsm:186:13
+getListeners@resource://gre/modules/PushBroadcastService.jsm:66:5
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1649678467401	geckodriver	INFO	Listening on 127.0.0.1:61150
+1649678470451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileOWjqcB"
+1649678471096	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileOWjqcB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61151/devtools/browser/e312edca-72b8-42b1-b991-39a156cab2f3
+1649678475193	Marionette	INFO	Listening on port 61172
+Read port: 61172
+1649678475412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 2422 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649678488414	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1649678490269	Marionette	INFO	Stopped listening on port 61172
+1649678650914	geckodriver	INFO	Listening on 127.0.0.1:61314
+1649678653949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61315" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileO1FImA"
+1649678654895	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileO1FImA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61315/devtools/browser/6150157a-8203-419b-bd87-b65399a03b05
+1649678659649	Marionette	INFO	Listening on port 61337
+Read port: 61337
+1649678659688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 714 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649678672425	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1649678674218	Marionette	INFO	Stopped listening on port 61337
+1649678690445	geckodriver	INFO	Listening on 127.0.0.1:61413
+1649678693455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61414" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileViBi5t"
+1649678694024	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileViBi5t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61414/devtools/browser/028f259d-e74c-41f7-8f1f-c8b500158220
+1649678699054	Marionette	INFO	Listening on port 61442
+Read port: 61442
+1649678699322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 7283 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649678715096	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1649678717422	Marionette	INFO	Stopped listening on port 61442
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 1184 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649678792418	geckodriver	INFO	Listening on 127.0.0.1:61537
+1649678795454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61538" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileCW2LXM"
+1649678796064	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileCW2LXM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61538/devtools/browser/f3d1e63f-e764-4c40-9783-37a5f72113ae
+1649678800239	Marionette	INFO	Listening on port 61560
+Read port: 61560
+1649678800348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 4799 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649678812908	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 4840 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 6454 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649678825555	Marionette	INFO	Stopped listening on port 61560
+1649678963213	geckodriver	INFO	Listening on 127.0.0.1:61704
+1649678966229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileyFLtHl"
+1649678966710	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileyFLtHl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61705/devtools/browser/05e0fc6c-128c-4928-aa28-07638e55c91b
+1649678970941	Marionette	INFO	Listening on port 61735
+Read port: 61735
+1649678971037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 4173 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649678992668	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1649678993775	Marionette	INFO	Stopped listening on port 61735
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649679590033	geckodriver	INFO	Listening on 127.0.0.1:61911
+1649679593085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61912" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofiledWTL8R"
+1649679593703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofiledWTL8R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61912/devtools/browser/7b11e452-1a4a-4e28-81cc-70ac27601b96
+1649679599461	Marionette	INFO	Listening on port 61934
+Read port: 61934
+1649679599597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 3450 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 1706 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649679624893	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1649679625841	Marionette	INFO	Stopped listening on port 61934
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649679672665	geckodriver	INFO	Listening on 127.0.0.1:62035
+1649679675702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62036" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofilekAWeTt"
+1649679676217	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofilekAWeTt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62036/devtools/browser/0b0ff72c-2bf6-4a1d-8d8b-292bc545717c
+1649679680151	Marionette	INFO	Listening on port 62054
+Read port: 62054
+1649679680323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 6496 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649679697487	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 1633 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649679707354	Marionette	INFO	Stopped listening on port 62054
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649822418447	geckodriver	INFO	Listening on 127.0.0.1:53183
+1649822421593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53184" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofiletizwom"
+1649822426123	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofiletizwom\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:53184/devtools/browser/5e87cc98-d7e5-4f3b-9dda-4cef0ea5991c
+1649822444242	Marionette	INFO	Listening on port 53218
+Read port: 53218
+1649822444367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 4930 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649822461587	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 5421 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649822470530	Marionette	INFO	Stopped listening on port 53218
+[Parent 13396, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1649830083411	geckodriver	INFO	Listening on 127.0.0.1:53496
+1649830086499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53497" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileQcgE55"
+1649830232349	geckodriver	INFO	Listening on 127.0.0.1:53586
+1649830235352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53588" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileDHsnLN"
+1649830236093	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Windows\\AppData\\Local\\Temp\\rust_mozprofileDHsnLN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53588/devtools/browser/250328db-4798-402e-a9e3-1f163612f4e2
+1649830243786	Marionette	INFO	Listening on port 53657
+Read port: 53657
+1649830243977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 5443 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649830264309	Marionette	INFO	Stopped listening on port 53648
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+eprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649830263966	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1649830266363	Marionette	INFO	Stopped listening on port 53657
+[Parent 11296, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  Message: Error: Data is not ready.
+  Stack:
+    get data@resource://gre/modules/JSONFile.jsm:186:13
+getListeners@resource://gre/modules/PushBroadcastService.jsm:66:5
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
